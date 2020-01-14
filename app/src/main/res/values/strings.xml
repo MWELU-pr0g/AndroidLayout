@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Upage</string>
-    <string name="like">like</string>
-    <string name="unlike">unlike</string>
+    <string name="like">OK</string>
+    <string name="unlike">CANCEL</string>
     <string name="share">share</string>
 </resources>
